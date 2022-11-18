@@ -45,5 +45,3 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple androguard
 python3 -m pip install androguard --upgrade  
 apt-get install androguard    #kali linux自带androguard工具 （kyyds）
 ```
-
-![image-20221118153035048](App%E6%81%B6%E6%84%8F%E5%88%86%E6%9E%90.assets/image-20221118153035048.png)
